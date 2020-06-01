@@ -17,7 +17,9 @@
 1. Selenium WebDriver是一组特定于语言的绑定，用于驱动浏览器。
    - 原文：Selenium WebDriver is a collection of language-specific bindings to drive a browser. 。
    - 建议：Selenium WebDriver是特定语言绑定的集合，用于驱动浏览器
-
+2. 运营
+   -原文 Operate
+   -建议：运维。
 
 
 ## Part3:
